@@ -1,0 +1,1 @@
+SELECT * FROM [Order Details] WHERE Discount > 0 ORDER BY UnitPrice asc
